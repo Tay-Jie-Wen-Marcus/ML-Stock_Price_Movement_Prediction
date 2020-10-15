@@ -3,7 +3,7 @@ An interesting project that we did in school for our Introduction to Machine Lea
 
 
 ## Note:
-As the main objective of the project was to evaluate various techniques used in stock price movement prediction, some of the code for our models were extracted from public repository/reports/articles that we referenced in our report. Who do not own those and credit belongs to its respective owners as referenced to in our report.
+As the main objective of the project was to evaluate various techniques used in stock price movement prediction, some of the code for our models were extracted from public repository/reports/articles that we referenced in our report. We do not own those and credit belongs to its respective owners as referenced to in our report.
 
 ## References:
 - (n.d.). stock market prediction using ann - irjet. Retrieved April 8, 2020, from https://www.irjet.net/archives/V5/i3/IRJET-V5I3634.pdf
